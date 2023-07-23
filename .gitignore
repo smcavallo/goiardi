@@ -8,3 +8,5 @@ goiardi-*
 packaging/**/share/goiardi/*
 /*.csv
 /**/*.csv
+.idea/*
+vendor/*
